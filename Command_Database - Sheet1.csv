@@ -1,0 +1,10 @@
+Command,Code
+MOVE_LEFT,"right_motor(2)"
+MOVE_RIGHT,"left_motor(2)"
+MOVE_FORWARD,"right_motor(2)
+left_motor(2)"
+MOVE_BACKWARD,"left_motor(2)
+right_motor(2)"
+TURN_IN_PLACE,"right_motor(1)\nleft_motor(-1)"
+TURN_RIGHT,"right_motor(1)
+left_motor(2)"
